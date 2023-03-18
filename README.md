@@ -1,1 +1,1 @@
-# Arabic-Fake-News-Detection-A-Comparative-Multimodal-Analysis-
+# Arabic Fake News Detection: Machine Learning Experiments
