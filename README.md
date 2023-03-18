@@ -3,7 +3,7 @@
 # Introducion
 
 Social media has played the amplifier role of spreading misinformation that it turned into an Infodemic. Researchers utilized natural language processing and machine learning to detect and label misinformation on the network. Literature on fake news detection for content in English and Latin languages
-using natural language is quite established however the research on Arabic Fake news detection is scarce. This paper contributes to the Arabic fake news detection research by comparing the effectiveness of several machine learning in classifying misinformed tweets based on linguistic features. 
+using natural language is quite established however the research on Arabic Fake news detection is scarce. This project contributes to the Arabic fake news detection research by comparing the effectiveness of several machine learning in classifying misinformed tweets based on linguistic features. 
 
 For this experiment, A hybrid dataset with balanced labels was compiled from sources in the literature. Results reinforce the potential of applications
 of machine learning in aiding the fact-checking process. Further research in building language resources and classification models is needed for the advancement of Arabic FND applications and
@@ -12,11 +12,11 @@ their associated fields.
 
 # Project Description
 
-This project interacts with the task of fake news detection as a binary classification problem. A binary classification problem in machine learning is predicting whether data points belong to a certain class or the other. In the case of this paper, the class labels are “True”, and “False”, referring to Arabic tweets related to COVID-19 containing verified information, and misinformation, respectively. 
+This project interacts with the task of fake news detection as a binary classification problem. A binary classification problem in machine learning is predicting whether data points belong to a certain class or the other. In the case of this project, the class labels are “True”, and “False”, referring to Arabic tweets related to COVID-19 containing verified information, and misinformation, respectively. 
 
-This paper creates a hybrid datset that combines the ArCOV-19-Rumors dataset by Haouari et al [1], The Arabic dataset as part of NLP4IF2021 shared task [2], and AraCOVID19-MFH by Ameur et al [3], into one balanced dataset, containing an equal number of “True”tweets and “False”tweets.
+This project creates a hybrid datset that combines the ArCOV-19-Rumors dataset by Haouari et al [1], The Arabic dataset as part of NLP4IF2021 shared task [2], and AraCOVID19-MFH by Ameur et al [3], into one balanced dataset, containing an equal number of “True”tweets and “False”tweets.
 
-Moreover, this paper compares the effectiveness of several machine learning models in classifying fake tweets against three levels of pre-processing procedures. Lastly, the paper also touches upon a few linguistic findings
+Moreover, this project compares the effectiveness of several machine learning models in classifying fake tweets against three levels of pre-processing procedures. Lastly, the project also touches upon a few linguistic findings
 from the hybrid dataset. 
 
 
@@ -24,7 +24,7 @@ from the hybrid dataset.
 
 ## Data Collection
 
-This paper experiments with fake news detection on a balanced dataset of tweets labeled as **True** or **False**. After surveying the literature, we have selected three datasets to be the source for the hybrid dataset used in this paper. Namely, ArCOV19-Rumors [1], AraCOVID19-MFH [2], and the Arabic dataset as part of NLP4IF-2021 shared task [3]. The three datasets contain COVID-19-related news tweets. The hybrid dataset contains in total of 4838 data points, with balanced class labels, 2419 data points for both "True”and“Fake" classes of tweets. The following tabels elucidates the number of data points extracted from each dataset.
+This project experiments with fake news detection on a balanced dataset of tweets labeled as **True** or **False**. After surveying the literature, we have selected three datasets to be the source for the hybrid dataset used in this project. Namely, ArCOV19-Rumors [1], AraCOVID19-MFH [2], and the Arabic dataset as part of NLP4IF-2021 shared task [3]. The three datasets contain COVID-19-related news tweets. The hybrid dataset contains in total of 4838 data points, with balanced class labels, 2419 data points for both "True”and“Fake" classes of tweets. The following tabels elucidates the number of data points extracted from each dataset.
 
 | Source:ArCOV19-Rumors |            |          |
 |-----------------------|------------|----------|
