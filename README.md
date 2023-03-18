@@ -24,7 +24,7 @@ from the hybrid dataset.
 
 ## Data Collection
 
-This paper experiments with fake news detection on a balanced dataset of tweets labeled as**“True  **or **False**. After surveying the literature, we have selected three datasets to be the source for the hybrid dataset used in this paper. Namely, ArCOV19-Rumors [1], AraCOVID19-MFH [2], and the Arabic dataset as part of NLP4IF-2021 shared task [3]. The three datasets contain COVID-19-related news tweets. The hybrid dataset contains in total of 4838 data points, with balanced class labels, 2419 data points for both "True”and“Fake" classes of tweets. The following tabels elucidates the number of data points extracted from each dataset.
+This paper experiments with fake news detection on a balanced dataset of tweets labeled as **True** or **False**. After surveying the literature, we have selected three datasets to be the source for the hybrid dataset used in this paper. Namely, ArCOV19-Rumors [1], AraCOVID19-MFH [2], and the Arabic dataset as part of NLP4IF-2021 shared task [3]. The three datasets contain COVID-19-related news tweets. The hybrid dataset contains in total of 4838 data points, with balanced class labels, 2419 data points for both "True”and“Fake" classes of tweets. The following tabels elucidates the number of data points extracted from each dataset.
 
 | Source:ArCOV19-Rumors |            |          |
 |-----------------------|------------|----------|
