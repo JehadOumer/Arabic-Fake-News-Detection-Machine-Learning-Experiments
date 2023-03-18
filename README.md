@@ -69,7 +69,7 @@ follows:
 The following table illustrates an example of a tweet that undergone
 text processing on all the three levels
 
-[image here]
+![An Example of a preprocessed tweet](images/Preprocessed_Tweet_Example.png)
 
 
 ## Machine Learning Models
@@ -87,7 +87,8 @@ The following is a list of the models used in the experiment:
 
 The following figure introduces the model pipeline used in this experiment.
 
-[image here]
+![Project Pipeline](images/Project_pipline.png)
+
 
 ## Models Training
 
@@ -111,7 +112,7 @@ The results indicate that using SVM has yielded the highest performance scores a
 
 The following table lists the performance results obtained from predicting on the testing set using three levels of preprocessing.
 
-[Image here]
+![Project Pipeline](images/Results_Table.png)
 
 # References
 
