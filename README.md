@@ -28,7 +28,7 @@ This project experiments with fake news detection on a balanced dataset of tweet
 
 | Source:ArCOV19-Rumors |            |          |
 |-----------------------|------------|----------|
-|                       |** Considered **| **Selected** |
+|                       |**Considered**| **Selected** |
 | **# True tweets  **       | 1831       | 807      |
 | **# False tweets   **     | 1753       | 1572     |
 | **Total # tweets **       | 3584       | 2379     |
